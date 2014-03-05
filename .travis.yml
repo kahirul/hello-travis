@@ -1,0 +1,6 @@
+language: ruby
+bundler_args: --without dev
+env:
+  - CI=true
+rvm:
+  - 2.1.0
