@@ -1,5 +1,4 @@
 language: ruby
-bundler_args: --without dev
 env:
   - CI=true
 rvm:
